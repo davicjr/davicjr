@@ -17,7 +17,7 @@
 
 ## Projeto em destaque
 
-### [FIFA Analytics — Copa do Mundo 2026](https://github.com/engdvj/fifa_analytics)
+### [FIFA Analytics — Copa do Mundo 2026](https://github.com/davicjr/fifa_analytics)
 
 Plataforma de analytics e bolão de palpites para a Copa do Mundo 2026, usando dados oficiais da FIFA. Pipeline de dados em camadas (raw → silver → gold) com scores analíticos próprios (Elo, calibração, estilo de jogo), API REST com autenticação JWT, frontend Next.js e deploy automatizado (CI/CD).
 
