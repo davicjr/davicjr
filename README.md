@@ -15,7 +15,7 @@
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### [FIFA Analytics — Copa do Mundo 2026](https://github.com/davicjr/fifa_analytics)
 
@@ -23,3 +23,9 @@ Plataforma de analytics e bolão de palpites para a Copa do Mundo 2026, usando d
 
 **Demo:** [fifa-analytics.davicjr.dev](https://fifa-analytics.davicjr.dev) — conta de teste `teste` / `123456`
 **Stack:** Python · FastAPI · PostgreSQL · Next.js · TypeScript · Docker
+
+### [Visão Computacional — Residência em IA](https://github.com/davicjr/desafio-residencia)
+
+Dois desafios de visão computacional: contagem de parafusos em tempo real com pipeline clássico sem treino (MAE=0,20), e detecção de trincas em concreto com U-Net + EfficientNet-B4 treinada em 1.085 imagens anotadas (IoU=0,6316 no teste). Ambos com app Streamlit rodando ao vivo via câmera do celular.
+
+**Stack:** Python · PyTorch · OpenCV · Streamlit
