@@ -34,6 +34,6 @@ Dois desafios de visão computacional: contagem de parafusos em tempo real com p
 
 ### [Facilita — Portal Interno](https://github.com/davicjr/facilita)
 
-Portal interno desenvolvido do zero para gestão de links, notas e documentos, com categorias, compartilhamento entre usuários, favoritos, busca global, chat em tempo real e administração centralizada. Segurança de produção (CORS fail-closed, rate limiting, containers non-root) e 114 testes automatizados (Jest) cobrindo as regras de autorização.
+Portal interno desenvolvido para gestão de links, notas e documentos, com categorias, compartilhamento entre usuários, favoritos, busca global, chat em tempo real e administração centralizada.
 
 **Stack:** NestJS · Prisma · PostgreSQL · Socket.io · Next.js · TypeScript · Docker
