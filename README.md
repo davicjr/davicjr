@@ -31,3 +31,9 @@ Plataforma de analytics e bolão de palpites para a Copa do Mundo 2026, usando d
 Dois desafios de visão computacional: contagem de parafusos em tempo real com pipeline clássico sem treino (MAE=0,20), e detecção de trincas em concreto com U-Net + EfficientNet-B4 treinada em 1.085 imagens anotadas (IoU=0,6316 no teste). Ambos com app Streamlit rodando ao vivo via câmera do celular.
 
 **Stack:** Python · PyTorch · OpenCV · Streamlit
+
+### [Facilita — Portal Interno](https://github.com/davicjr/facilita)
+
+Portal interno desenvolvido do zero para gestão de links, notas e documentos, com categorias, compartilhamento entre usuários, favoritos, busca global, chat em tempo real e administração centralizada. Segurança de produção (CORS fail-closed, rate limiting, containers non-root) e 114 testes automatizados (Jest) cobrindo as regras de autorização.
+
+**Stack:** NestJS · Prisma · PostgreSQL · Socket.io · Next.js · TypeScript · Docker
