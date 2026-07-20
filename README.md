@@ -24,6 +24,7 @@
 Plataforma de analytics e bolão de palpites para a Copa do Mundo 2026, usando dados oficiais da FIFA. Pipeline de dados em camadas (raw → silver → gold) com scores analíticos próprios (Elo, calibração, estilo de jogo), API REST com autenticação JWT, frontend Next.js e deploy automatizado (CI/CD).
 
 **Demo:** [fifa-analytics.davicjr.dev](https://fifa-analytics.davicjr.dev) — conta de teste `teste` / `123456`
+
 **Stack:** Python · FastAPI · PostgreSQL · Next.js · TypeScript · Docker
 
 ### [Visão Computacional — Residência em IA](https://github.com/davicjr/desafio-residencia)
